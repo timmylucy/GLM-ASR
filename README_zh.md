@@ -102,7 +102,7 @@ docker pull lmsysorg/sglang:dev
 
 ```shell
 pip install git+https://github.com/huggingface/transformers # 覆盖transformers版本
-python3 -m sglang.launch_server   --model-path /cloud/oss_checkpoints/zai-org/GLM-ASR-Nano-2512 --mem-fraction-static 0.8   --served-model-name glm-asr   --host 0.0.0.0   --port 8000
+python3 -m sglang.launch_server --model-path zai-org/GLM-ASR-Nano-2512 --served-model-name glm-asr --host 0.0.0.0 --port 8000
 ```
 
 发起请求:
